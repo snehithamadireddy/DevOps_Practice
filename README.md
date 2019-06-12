@@ -1,2 +1,3 @@
 # DevOps_Practice
-learning sample skills
+by using this repo for webapplication
+releated to our project or details we have to add here.
